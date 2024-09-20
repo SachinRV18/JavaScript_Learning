@@ -39,3 +39,14 @@ Note: we cannot change the value of the constant variable, but we can change the
 
  "typeof" function used in JS to know the data type of the variable
 
+  <!-- - Part : 4 -->
+  <!-- Type convention -->
+conversion of one data type into another
+console.log(val.length) : it will work only for strings it will print total number of characters in the string.
+It is a property of a string
+
+
+we can convert also using toString() method
+val.toFixed(2) the toFixed used to define how many decimals we want example 2.00
+
+parseInt() this method used to convert into number from any data type
