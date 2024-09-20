@@ -27,4 +27,15 @@ Note: we cannot change the value of the constant variable, but we can change the
  <!-- - Part : 3 -->
  Datatypes in JS
  
+ 1. Primitive Datatypes
+ stored directly in the location the variable access
+ stored in stack
+ string, number, boolean, null, undefined, symbol
+
+ 2. Reference Datatypes 
+ accessed by reference (key)
+ stored in heap, and points to location in memory
+ arrays, object Literals, Functions
+
+ "typeof" function used in JS to know the data type of the variable
 

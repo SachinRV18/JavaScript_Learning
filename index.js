@@ -41,3 +41,45 @@
 // const numbers = [1,2,3,4,5,6]
 // numbers.push(7)
 // console.log(numbers)
+
+// // string
+// let name = "sachin"
+// console.log(typeof name)
+
+// // number
+// let number = 123
+// console.log(typeof number)
+
+// // Boolen
+// let bool = true
+// console.log(typeof bool)
+
+// // null
+// let variable = null
+// console.log(typeof variable) // there was one error in JS it will print object instead of null 
+
+// // undefiened
+// let word;
+// console.log(typeof word)  //if we dont assign any values it will define undefiend
+
+// // symbol
+// const sym = Symbol();
+// console.log(typeof sym)
+
+// Reference Datatypes 
+
+// //Array
+// const hobbies = ['cricket', 'hobbies']
+// console.log(typeof hobbies)
+
+// //object Literals
+// const person={
+//     name : "sachin",
+//     age : 22,
+// }
+// console.log(typeof person)
+
+// // Dates
+// const today = new Date()
+// console.log(today)
+// console.log(typeof today)
