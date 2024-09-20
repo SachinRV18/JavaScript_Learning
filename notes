@@ -1,3 +1,13 @@
 # Start Date : 20/09/2024
 # Created By : Sachin R V
 This contains the notes of JS 
+
+alert("Hello") # added a alert msg
+
+<script src="index.js"></script> # to link an external java script file
+
+we can also run the code from the browser console :
+right click on browser >> select inspect >> then console >> "act like a text editor"
+
+we can comment the code using two slashes (//) in JS.
+console.log("data") : whatever the data we enter inside the console.log it will displayed in the console of the browser.
