@@ -50,3 +50,8 @@ we can convert also using toString() method
 val.toFixed(2) the toFixed used to define how many decimals we want example 2.00
 
 parseInt() this method used to convert into number from any data type
+
+type cohesion : if frst letter is string means it will convert next one also an string and concatinate its value
+
+  <!-- - Part : 5 -->
+string and string methods

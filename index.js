@@ -175,10 +175,12 @@
 // console.log(val.toFixed(2))
 
 
-// type cohesion
-const val1 = "5";
-const val2 = 6;
-const sum = val1 + val2
+// // type cohesion
+// const val1 = "5";
+// const val2 = 6;
+// const sum = val1 + val2
 
-console.log(sum)
-console.log(typeof sum)  //  if frst letter is string means it will convert next one also an string and concatinate its value
+// console.log(sum)
+// console.log(typeof sum)  //  if frst letter is string means it will convert next one also an string and concatinate its value
+
+// String and string methods
