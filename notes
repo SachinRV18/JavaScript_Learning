@@ -55,3 +55,4 @@ type cohesion : if frst letter is string means it will convert next one also an 
 
   <!-- - Part : 5 -->
 string and string methods
+concatination, Append, escaping, Length, concat, toChange case, indexing, indexOf(), charAt(), substring(), slice, split(), replace(), includes(), 

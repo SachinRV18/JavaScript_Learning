@@ -184,3 +184,67 @@
 // console.log(typeof sum)  //  if frst letter is string means it will convert next one also an string and concatinate its value
 
 // String and string methods
+let firstName = "Sachin";
+let lastName = "R V"
+let age = 25;
+let text = "Hello, everyone";
+let sent = "Books, Words, That's it okay"
+
+// // concatination
+// let val = firstName + " "+ lastName;
+// console.log(val)
+
+// // Append
+// val = "Demo ";
+// val += "notes";
+// console.log(val)
+
+// let val;
+// val = " Hello my name is " + firstName +" "+ lastName + " "+"Nice to meet you guys!!"
+// console.log(val)
+
+// let val;
+// // escaping
+// val = "that's not a good job"
+// console.log(val)
+
+// let val;
+
+// Length
+// val = firstName.length;
+
+// //concat
+// val = firstName.concat(" " + lastName)
+
+// // Upper and lower case (to change the case)
+// val = firstName.toUpperCase();
+// val = lastName.toLowerCase()
+
+// indexing
+// val = firstName[2];
+
+// indexOf()
+// let firstName = "Sachina";
+// val = firstName.indexOf("a")
+// val = firstName.lastIndexOf("a")
+
+// //charAt()
+// val = firstName.charAt("2")
+
+// substring()  (divide the particular string)
+// val = firstName.substring(0, 4)
+
+// // slice  (divide the particular string)
+// val = firstName.slice(0, 2)
+
+// split()
+// val = text.split(" ")
+// val = sent.split(",")
+
+// replace()
+// val = firstName.replace("S","G")
+
+// // includes()  // to search a string
+// val = sent.includes("Books")
+
+// console.log(val)
