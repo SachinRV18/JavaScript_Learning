@@ -183,12 +183,12 @@
 // console.log(sum)
 // console.log(typeof sum)  //  if frst letter is string means it will convert next one also an string and concatinate its value
 
-// String and string methods
-let firstName = "Sachin";
-let lastName = "R V"
-let age = 25;
-let text = "Hello, everyone";
-let sent = "Books, Words, That's it okay"
+// // String and string methods
+// let firstName = "Sachin";
+// let lastName = "R V"
+// let age = 25;
+// let text = "Hello, everyone";
+// let sent = "Books, Words, That's it okay"
 
 // // concatination
 // let val = firstName + " "+ lastName;
