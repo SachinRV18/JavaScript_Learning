@@ -142,3 +142,13 @@ val = Math.floor(Math.random() * 20 + 1)// Print the value within 1 to 20 (only 
 // });
 
 // console.log(val)
+
+ <!-- - Part : 8 -->
+
+ Template Literals : without using a double quotes (" ") we can use the (` `) backtick to rendering a page in JS is called as template literals.
+
+ // Object literals
+
+we have to take the property of the object means we use the "This" keyword.
+
+ <!-- - Part : 9 -->

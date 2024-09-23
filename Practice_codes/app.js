@@ -63,3 +63,81 @@
 // });
 
 // console.log(val)
+
+// // template literals
+// const name = "sachin";
+// const age = 25;
+
+// let html;
+
+// // //without using a template literals, ES5, we are going to render HTML to browser with JS
+
+// // html = '<ul><li>Name:' +name + '</li><li>Age:' + age + '</li></ul>';
+
+// // document.body.innerHTML = html;
+
+// // by using template literals
+// html = `
+// <ul>
+// <li>Name:${name}</li>
+// <li>Age:${age}</li>
+// </ul>
+// `;
+// document.body.innerHTML = html;  // its easy
+
+// // Object literals
+// const person = {
+//     firstName: "sach",
+//     age:25,
+//     email:"sachin@gmail.com",
+//     hobbies : ['eat','sleep', 'code'],
+//     address: {
+//         city: 'skp',
+//         state: 'karnataka'
+//     },
+
+//     // getBirthYear: function(){
+//     //     return 1999;
+//     // },  //hardcoded
+//     getBirthYear: function(){
+//         return 2024 - this.age;  //this keyword is used to get the value of particlar object. It will points to the same object
+//     },  //hardcoded
+
+//    };
+// //   console.log(person.firstName);
+// //   console.log(person.age);
+// let val;
+// val = person;
+// console.log(person)
+// // console.log(person.firstName)
+// // console.log(person.age)
+// // console.log(person.address)
+// // console.log(person.address.city)
+// // console.log(person.address.state)
+// // console.log(person.hobbies)
+// // console.log(person.hobbies[2])
+// // console.log(person.email)
+// console.log(person.getBirthYear()) //calling a function
+
+//Array of objects
+
+// const people = [
+//   {
+//     FirstName: "Mani",
+//     age: 25,
+//   },
+//   {
+//     FirstName: "sachin",
+//     age: 25,
+//   },
+//   {
+//     FirstName: "Rakesh",
+//     age: 25,
+//   },
+// ];
+
+// // console.log(people[0].FirstName);
+
+// for (let i = 0; i < people.length; i++) {
+//   console.log(people[i].FirstName);
+// }
