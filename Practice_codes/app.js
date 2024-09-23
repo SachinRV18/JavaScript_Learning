@@ -209,8 +209,8 @@
 //   console.log("the person can participate.");
 // }  //if any one conditon pass also it will execute
 
-// Ternary operator
-const id = 100;
-console.log(id === 100 ? "yes correct" : "no it's not correct");
+// // Ternary operator
+// const id = 100;
+// console.log(id === 100 ? "yes correct" : "no it's not correct");
 
-// "?" Yes and ":" NO
+// // "?" Yes and ":" NO
