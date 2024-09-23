@@ -152,3 +152,12 @@ val = Math.floor(Math.random() * 20 + 1)// Print the value within 1 to 20 (only 
 we have to take the property of the object means we use the "This" keyword.
 
  <!-- - Part : 9 -->
+ // conditional and comparisions
+ syntax
+if (something){
+    do something;
+}else{
+    do something else
+}
+
+note : if we use === it checks the value and also the type of a variable

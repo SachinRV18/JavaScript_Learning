@@ -141,3 +141,76 @@
 // for (let i = 0; i < people.length; i++) {
 //   console.log(people[i].FirstName);
 // }
+
+// conditional and comparisions
+// syntax
+// if (something){
+//     do something;
+// }else{
+//     do something else
+// }
+
+// const id = 100; // assignment operator
+
+// if (id == 100) {
+//   // Comparision operator
+//   console.log("Yes the ID is 100");
+// } else {
+//   console.log("Yes the ID is not 100");
+// }
+
+// const sid = "100"; // assignment operator
+// // if we use === it checks the value and also the type of a variable
+// if (sid === 100) {
+//   // Comparision operator
+//   console.log("Yes the ID is 100");
+// } else {
+//   console.log("Yes the ID is not 100");
+// }
+
+// if (id) {
+//   console.log(id);  //if id is present it will print otherwise its an error
+// } else {
+//   console.log("NO ID");  //error
+// }
+
+// if (typeof id !== "undefined") {
+//   console.log(id);
+// } else {
+//   console.log("NO ID");
+// } // it will not print an error
+
+// //if elseif else
+// const color = "blue";
+
+// if (color === "black") {
+//   console.log("colour is black");
+// } else if (color === "white") {
+//   console.log("color is white");
+// } else {
+//   console.log("color is undefined");
+// }
+
+//Logical operator
+// logical and , logical or
+
+// const age = 100;
+
+// if (age > 0 && age < 18) {
+//   console.log("the person is not eligible to vote");
+// } else {
+//   console.log("the person is eligible to vote");
+// } //if both conditon pass it will execute
+
+// const age = 100;
+// if (age > 10 || age < 50) {
+//   console.log("the person can't participate.");
+// } else {
+//   console.log("the person can participate.");
+// }  //if any one conditon pass also it will execute
+
+// Ternary operator
+const id = 100;
+console.log(id === 100 ? "yes correct" : "no it's not correct");
+
+// "?" Yes and ":" NO
