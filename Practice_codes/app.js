@@ -214,3 +214,44 @@
 // console.log(id === 100 ? "yes correct" : "no it's not correct");
 
 // // "?" Yes and ":" NO
+
+//loops in JS
+
+// for loops
+// for (let i = 0; i < 10; i++) {
+//   console.log(` hi ${i}`);
+// }
+
+// const names = ["Mani", "sachin", "Gagan", "deepak"];
+// // for (let i = 0; i < names.length; i++) {
+// //   console.log(names[i]);
+// // }
+
+// // for of loop
+// for (name of names) {
+//   console.log(name);
+// } // comparatively it was slow  rather than the for loop.
+
+// while loop
+// let i = 0;
+// while (i < 10) {
+//   console.log(i);
+//   i++;
+// }
+
+// // do while loop
+// let i = 0;
+// do {
+//   i++;
+//   console.log(i);
+// } while (i < 10);  at least once it will pass the execution as true, it must executes once everytime
+
+// // for in loop.  // it helps to loops through the objects
+// const person = {
+//   firstName: "sachin",
+//   lastName: "RV",
+// };
+// for (x in person) {
+//   console.log(x); // x is the key
+//   console.log(person[x]); // it gives the value
+// }

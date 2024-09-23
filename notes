@@ -161,3 +161,12 @@ if (something){
 }
 
 note : if we use === it checks the value and also the type of a variable
+
+loops in JS
+for loops
+for of loop
+while loop
+do while loop
+for in loop.
+
+ <!-- - Part : 10 -->
